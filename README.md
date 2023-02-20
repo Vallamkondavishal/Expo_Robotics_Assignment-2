@@ -36,6 +36,9 @@ Use the following command to launch the software with randomized stimulus.
 roslaunch assignment2 assignment.launch  
 
 ```
+# Authors and contacts
+* Name: Vishal vallamkonda
+* Email: vvishal243@yahoo.com
 
 
 
